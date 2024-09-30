@@ -1,0 +1,78 @@
+@document url("https://oree-des-conteurs.forumactif.org/") {
+     body {
+         background-color: #FEF7E3!important;
+    }
+     .post {
+         border: 1px solid #F0D39B!important;
+         flex-direction: row-reverse!important;
+         padding: 0!important;
+         justify-content: space-between!important;
+         background-color: aliceblue!important;
+    }
+     .post-footer {
+         display: inline-block!important;
+         padding: 8px 16px!important;
+         width: 20%!important;
+         margin: 0!important;
+    }
+     .infos-posteur_globale {
+         font-size: 1em!important;
+         height: auto!important;
+         flex-wrap: wrap!important;
+    }
+     .post-date {
+         color: #0E3D65 !important;
+         float: none!important;
+         margin-top: 20px!important;
+         height: auto!important;
+         font-size: 1em!important;
+         border: 1px solid #0E3D65!important;
+         width: 100%!important;
+         display: block!important;
+         padding: 5px!important;
+         background-color: white;
+    }
+     .fa_like_div {
+         position: absolute!important;
+         bottom: 0!important;
+    }
+     .post-content {
+         width: 80%!important;
+         padding: 2% 10px 60px 2%!important;
+    }
+     #search-main input::placeholder {
+         color: white!important;
+    }
+     .post-header {
+         border-bottom-style: initial!important;
+         text-align: left!important;
+         display: inline-block!important;
+    }
+     .pagination > span > strong, .pagination > span b {
+         opacity: 1!important;
+         color: black!important;
+         border: 1px solid!important;
+         background-color: wheat!important;
+    }
+     button.rep-button.fa_like, button.rep-button.fa_dislike {
+         float: none!important;
+    }
+     .post-author-avatar {
+         left: auto!important;
+         height: auto!important;
+    }
+     .rep-button, .rep-button:active, .rep-button:focus {
+         border: 1px solid!important;
+    }
+     .rep-button {
+         color: #666!important;
+    }
+     .rep-nb {
+         font-weight: bold!important;
+         color: white!important;
+    }
+     footer {
+         color: #000!important;
+    }
+}
+ 

@@ -1,4 +1,4 @@
-
+@-moz-document url("https://oree-des-conteurs.forumactif.org/") {
      body {
          background-color: #FEF7E3!important;
     }
@@ -74,4 +74,5 @@
      footer {
          color: #000!important;
     }
+}
  
